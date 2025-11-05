@@ -1,0 +1,26 @@
+{
+  "name": "2.ignition",
+  "version": "1.0.0",
+  "description": "this is my learning from namaste-react",
+  "homepage": "https://github.com/pgit80/myReactLearning#readme",
+  "bugs": {
+    "url": "https://github.com/pgit80/myReactLearning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgit80/myReactLearning.git"
+  },
+  "license": "ISC",
+  "author": "pg",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
