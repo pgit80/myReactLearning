@@ -158,3 +158,7 @@ root.render(<FunctionalComponent/>);
 * we have two import-export pairs:
 - default: export default Component -> import Component from "path";
 - named: export const Component/data -> import {Component/data} from "path";
+
+- There is a Data Layer and UI Layer
+- React makes Dom Updates very fast.
+- React keeps the Data Layer in extremely sync with UI Layer
